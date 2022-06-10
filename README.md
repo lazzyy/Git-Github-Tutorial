@@ -10,7 +10,7 @@ Wikipedia's Definition :
 > Git is a software that tracks the changes in a set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 
 Git is basically a memory card. 💥🤯💥
-If you have a project with only a single page like this repo or with a huge number of files like HTML, CSS, JavaScript, etc, whatever programming languages you want just like how you have a video game you want to save your progress as you go that way if you die you don't lose all of your progress so with git every so often you enter a command to save your progress.
+If you have a project with only a single page like this repo or with a huge number of files like HTML, CSS, JavaScript, etc, whatever programming languages you want, just like in a video game you want to save your progress as you go and in that way if you die you don't lose all of your progress so with git every so often you enter a command to save your progress.
 
 ## The Process :
 Step 0: Download [Git](https://www.git-scm.com)
