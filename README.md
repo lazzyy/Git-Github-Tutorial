@@ -3,6 +3,11 @@ A Basic Tutorial for Git &amp; Github.
 
 This doc is written with following Nick White's YouTube Video [Git Tutorial For Dummies](https://www.youtube.com/watch?v=mJ-qvsxPHpY&ab_channel=NickWhite)
 
+The commands followed in the video are : 
+
+![image](https://github.com/lazzyy/Git-Github-Tutorial/blob/main/image.png)
+
+
 ### Git & Github are two different Things.
 
 ## What is GIT ?
